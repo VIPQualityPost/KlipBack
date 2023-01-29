@@ -1,0 +1,4 @@
+.DS_Store
+gerbers/
+*.kicad_pcb
+*.kicad_pcb-bak
