@@ -6,5 +6,5 @@ May change next design to remove a slot, but add a USB out port so that the card
 
 The board is intended to create a platform for developing accessories for Klipper-controlled motion systems, so that you can take care of basic needs (steppers, endstops, GPIO, etc) without needing to include those in board spinup while trying new configurations or designs.
 
-!(render1.png)
-!(render2.png)
+![Render 1](render1.png)
+![Render 2](render2.png)
