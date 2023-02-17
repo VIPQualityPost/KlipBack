@@ -8,3 +8,4 @@ gerbers/
 /gerbers
 fp-info-cache
 *.drl
+*.dxf
