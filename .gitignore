@@ -3,3 +3,7 @@ gerbers/
 *.kicad_pcb
 *.kicad_pcb-bak
 *.zip
+*.gbr
+*.gbrjob
+/gerbers
+fp-info-cache
